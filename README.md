@@ -23,7 +23,7 @@ No installation is necessary, just copy the code and run it on your local machin
 
 1. Clone or download the repository:
     ```
-    git clone https://github.com/your-username/simple-calculator.git
+    git clone https://github.com/Kdauda-lab/simple-calculator.git
     ```
 
 2. Navigate into the project directory:
